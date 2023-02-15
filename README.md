@@ -3,9 +3,6 @@
 **👩🏻 Name**
  박시연 (Park Si Yeon)
 
-**📆 Birth Date**
-2000년 03월 18일
-
 **✉ E-Mail**
  psysy318@naver.com
 

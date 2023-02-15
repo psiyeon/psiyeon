@@ -1,19 +1,5 @@
 ## 박시연, 행복을 가져다주는 개발자 ❤
 
-<!--
-**psiyeon/psiyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **👩🏻 Name**
  박시연 (Park Si Yeon)
 
@@ -26,4 +12,11 @@ Here are some ideas to get you started:
 **✏ Blog**
 https://sy-coding.tistory.com/
 
+* 안녕하세요! 행복을 가져다주는 개발자가 되고 싶은 박시연입니다.
+* IT의 발전이 많은 사람들의 생활에 도움을 주는 모습을 보며 저도 사람들에RP 편리함과 도움을 주는 앱 개발자가 되고 싶다는 꿈을 가지게 되었습니다. 제가 좋아하는 프로그래밍을 통하여 사람들에게 편리함과 도움을 줌으로써 사람들에게 행복을 가져다주고 싶습니다.
+* 사람들이 필요로하는 것이 무엇인지 생각하는 것을 좋아합니다.
+* 단 한줄의 코드라도 의미와 가치를 담으려고 노력합니다.
+
 - - -
+
+
